@@ -1,3 +1,4 @@
+Vamos a  realizar un commit sin stage
 es para joder
 Grit : 
               user     system      total        real
